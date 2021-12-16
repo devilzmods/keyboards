@@ -1,6 +1,6 @@
 {
-  "name": "Six Pack",
-  "vendorId": "0x4025",
+  "name": "Six Pack !update firmware!",
+  "vendorId": "0x3430",
   "productId": "0x5350",
   "lighting": "qmk_backlight",
   "matrix": {"rows": 2, "cols": 3},
